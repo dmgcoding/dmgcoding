@@ -1,6 +1,6 @@
-###Hi there, I'm shehan - aka shehanDMG 👋
+### Hi there, I'm shehan - aka shehanDMG 👋
 
-##I'm currently a freelancer. 
+## I'm currently a freelancer. 
 🔭 I design and develop mobile apps using flutter!!
 🌱 android and iOS
 🥅 2021 Goals: Work on more quality projects and learn more.
